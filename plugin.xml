@@ -40,7 +40,7 @@
         <source-file src="src/android/res/values/dimens.xml" target-dir="res/values"/>
 
 		<framework src="com.android.support:support-v4:24.2.0" />
-		<framework src="com.google.android.gms:play-services-vision:+" />
+		<framework src="com.google.android.gms:play-services-vision:10.+" />
 		<framework src="com.android.support:design:24.2.0" />
 
 	</platform>

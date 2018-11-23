@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EloiRodriguezGaxas/BarcodeScannerMV.git"
+    "url": "git+https://github.com/cubetechnology/BarcodeScannerMV.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Eloi Rodriguez",
+  "author": "cubetechnology",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EloiRodriguezGaxas/BarcodeScannerMV/issues"
+    "url": "https://github.com/cubetechnology/BarcodeScannerMV/issues"
   },
-  "homepage": "https://github.com/EloiRodriguezGaxas/BarcodeScannerMV#readme"
+  "homepage": "https://github.com/cubetechnology/BarcodeScannerMV#readme"
 }
